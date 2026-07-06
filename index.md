@@ -8,5 +8,8 @@ Welcome. This page hosts the legal documents for the **Forge AI** mobile applica
 
 - [Privacy Policy](./privacy-policy)
 - [Terms of Service](./terms-of-service)
+- [Mentions légales / Legal Notice](./legal-notice)
 
-For any question, contact: **privacy@forge-ai.com**
+Forge AI is published by Louis Roux, sole proprietor (*entrepreneur individuel*), SIREN 107 016 362, France.
+
+For any question, contact: **contact@louxia-agency.fr**

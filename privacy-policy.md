@@ -1,6 +1,6 @@
 # Privacy Policy — Forge AI
 
-**Effective date:** May 19, 2026
+**Effective date:** May 19, 2026 — **Last updated:** July 6, 2026
 
 This Privacy Policy explains how Forge AI ("we", "us", "our") collects, uses, and protects your personal information when you use our mobile application (the "App"). We are committed to processing your data lawfully, transparently, and only as necessary to provide the service.
 
@@ -8,9 +8,10 @@ This Privacy Policy explains how Forge AI ("we", "us", "our") collects, uses, an
 
 The data controller responsible for your personal data is:
 
-- **Name:** Louis Roux
+- **Name:** Louis Roux, sole proprietor (*entrepreneur individuel*)
+- **Business registration:** SIREN 107 016 362 (France)
 - **Address:** 95 boulevard Vauban, 59800 Lille, France
-- **Email:** privacy@forge-ai.com
+- **Email:** contact@louxia-agency.fr
 
 For any question regarding your personal data or this Policy, contact us at the email above.
 
@@ -110,7 +111,7 @@ You have the following rights regarding your personal data:
 - **Withdraw consent** at any time, where consent is the legal basis
 - **Lodge a complaint** with the CNIL (French data protection authority — [cnil.fr](https://www.cnil.fr)) or your local supervisory authority
 
-To exercise any right, email us at privacy@forge-ai.com. We respond within 30 days.
+To exercise any right, email us at contact@louxia-agency.fr. We respond within 30 days.
 
 ## 8. Children
 
@@ -141,5 +142,5 @@ We may update this Policy from time to time. When we make material changes, we w
 
 For any question, complaint, or rights request:
 
-- **Email:** privacy@forge-ai.com
+- **Email:** contact@louxia-agency.fr
 - **Postal address:** Louis Roux, 95 boulevard Vauban, 59800 Lille, France

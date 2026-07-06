@@ -1,6 +1,6 @@
 # Terms of Service — Forge AI
 
-**Effective date:** May 19, 2026
+**Effective date:** May 19, 2026 — **Last updated:** July 6, 2026
 
 Welcome to Forge AI. These Terms of Service ("Terms") govern your use of the Forge AI mobile application (the "App"). By creating an account or using the App, you agree to these Terms. If you do not agree, do not use the App.
 
@@ -8,9 +8,12 @@ Welcome to Forge AI. These Terms of Service ("Terms") govern your use of the For
 
 Forge AI is operated by:
 
-- Louis Roux
-- 95 boulevard Vauban, 59800 Lille, France
-- Email: privacy@forge-ai.com
+- Louis Roux, sole proprietor (*entrepreneur individuel*) registered in France
+- SIREN 107 016 362 — SIRET 107 016 362 00017
+- APE/NAF code: 58.29C — Application software publishing
+- VAT: not applicable, Article 293 B of the French General Tax Code (*TVA non applicable, art. 293 B du CGI*)
+- Address: 95 boulevard Vauban, 59800 Lille, France
+- Email: contact@louxia-agency.fr
 
 ## 2. Eligibility
 
@@ -24,7 +27,7 @@ To use the App, you create an account using your email and a password. You are r
 - Keeping your password confidential
 - All activity that occurs under your account
 
-If you suspect unauthorized access to your account, contact us immediately at privacy@forge-ai.com.
+If you suspect unauthorized access to your account, contact us immediately at contact@louxia-agency.fr.
 
 ## 4. License
 
@@ -38,11 +41,11 @@ We grant you a **personal, non-transferable, non-exclusive, revocable license** 
 
 ## 5. Subscriptions
 
-Forge AI offers a Free tier and **Forge AI Pro**, a paid subscription.
+Forge AI offers a Free tier and two paid subscriptions: **Forge AI Pro** and **Forge AI Elite**. References to a paid subscription in these Terms apply to both tiers.
 
 ### 5.1 Free trial
 
-New subscribers receive a **7-day free trial** when starting a Forge AI Pro subscription. If you do not cancel before the end of the trial, your subscription will start and you will be charged the price displayed at purchase.
+New subscribers receive a **7-day free trial** when starting a paid subscription. If you do not cancel before the end of the trial, your subscription will start and you will be charged the price displayed at purchase.
 
 ### 5.2 Auto-renewal
 
@@ -128,7 +131,7 @@ These limitations do **not** apply in cases of fraud, gross negligence, or bodil
 
 These Terms are governed by **French law**, without regard to its conflict-of-laws principles.
 
-In the event of a dispute, we encourage you to contact us first at privacy@forge-ai.com — we will make a good-faith effort to resolve the matter amicably within 30 days.
+In the event of a dispute, we encourage you to contact us first at contact@louxia-agency.fr — we will make a good-faith effort to resolve the matter amicably within 30 days.
 
 **EU consumers** may also use the European [Online Dispute Resolution platform](https://ec.europa.eu/consumers/odr).
 
@@ -140,5 +143,5 @@ We may update these Terms from time to time. When we make material changes, we w
 
 ## 16. Contact
 
-- **Email:** privacy@forge-ai.com
+- **Email:** contact@louxia-agency.fr
 - **Postal address:** Louis Roux, 95 boulevard Vauban, 59800 Lille, France
